@@ -1,0 +1,25 @@
+header {
+    color:rgb(194, 173, 214)
+}
+
+h5 {
+    color: white
+}
+
+.form {
+    margin: 0 auto;
+    justify-content: center;
+    display: flex;
+    width: 600px;
+    border: 1px, solid black; 
+}
+
+input {
+    display: block;
+    height: 30px;
+}
+
+button {
+    margin: top;
+    display: flex;
+}
